@@ -1,0 +1,19 @@
+:root {
+    --blue:#0FBCE3;
+    --dark-blue:#076478;
+    --medium-blue:#47A6BB;
+    --light-yellow:#FFE978;
+    --gold:#E6B926;
+    --brown:#937639;
+    --light-orange:#FEB853;
+    --orange:#ff852c;
+    --dark-orange:#cf6100;
+    --light_grey:#eeeeee;
+    --grey:#cbcbcb;
+    --dark-grey:#74706c;
+
+}
+
+body {
+    font-family: "Roboto Mono";
+}
